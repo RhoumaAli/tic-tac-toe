@@ -4,7 +4,7 @@ I write it with pycharm :
 languge : Puthon
 SOME NOTES : 
 *L3 is the code of the game table
-*there are some obscure sentencs in the code like" \nA\u001b[0m "  I use them to give the letter some colores
+*there are some obscure sentencs in the code like" \nA\u001b[0m "  I use them to give the lettres alphabetics some colores
 
 
 
